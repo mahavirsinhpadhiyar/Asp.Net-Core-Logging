@@ -1,0 +1,12 @@
+E:\Docs\December\AspNetCore\Logging\Logging\bin\Debug\netcoreapp2.0\Logging.deps.json
+E:\Docs\December\AspNetCore\Logging\Logging\bin\Debug\netcoreapp2.0\Logging.runtimeconfig.json
+E:\Docs\December\AspNetCore\Logging\Logging\bin\Debug\netcoreapp2.0\Logging.runtimeconfig.dev.json
+E:\Docs\December\AspNetCore\Logging\Logging\bin\Debug\netcoreapp2.0\Logging.dll
+E:\Docs\December\AspNetCore\Logging\Logging\bin\Debug\netcoreapp2.0\Logging.pdb
+E:\Docs\December\AspNetCore\Logging\Logging\obj\Debug\netcoreapp2.0\Logging.csprojResolveAssemblyReference.cache
+E:\Docs\December\AspNetCore\Logging\Logging\obj\Debug\netcoreapp2.0\Logging.csproj.CoreCompileInputs.cache
+E:\Docs\December\AspNetCore\Logging\Logging\obj\Debug\netcoreapp2.0\Logging.AssemblyInfoInputs.cache
+E:\Docs\December\AspNetCore\Logging\Logging\obj\Debug\netcoreapp2.0\Logging.AssemblyInfo.cs
+E:\Docs\December\AspNetCore\Logging\Logging\obj\Debug\netcoreapp2.0\Logging.dll
+E:\Docs\December\AspNetCore\Logging\Logging\obj\Debug\netcoreapp2.0\Logging.pdb
+E:\Docs\December\AspNetCore\Logging\Logging\bin\Debug\netcoreapp2.0\nlog.config

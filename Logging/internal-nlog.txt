@@ -1,0 +1,14 @@
+2018-01-01 14:36:09.0443 Info Message Template Auto Format enabled
+2018-01-01 14:36:09.4048 Info Adding target File Target[allfile]
+2018-01-01 14:36:09.4048 Info Adding target File Target[ownFile-web]
+2018-01-01 14:36:09.4129 Info Adding target Null Target[blackhole]
+2018-01-01 14:36:09.4129 Info Configured from an XML element in E:\Docs\December\AspNetCore\Logging\Logging\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-01 14:36:09.4583 Info Found 56 configuration items
+2018-01-01 14:36:09.4731 Info Configuration initialized.
+2018-01-01 14:36:10.0793 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.0.6749. Product version: 4.5.0-rc02.
+2018-01-01 14:36:10.0793 Info Message Template Auto Format enabled
+2018-01-01 14:36:10.0793 Info Found 56 configuration items
+2018-01-01 14:36:10.0793 Info Adding target File Target[allfile]
+2018-01-01 14:36:10.0835 Info Adding target File Target[ownFile-web]
+2018-01-01 14:36:10.0835 Info Adding target Null Target[blackhole]
+2018-01-01 14:36:10.0835 Info Configured from an XML element in E:\Docs\December\AspNetCore\Logging\Logging\bin\Debug\netcoreapp2.0\NLog.config...

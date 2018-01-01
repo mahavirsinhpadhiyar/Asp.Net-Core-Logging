@@ -1,0 +1,10 @@
+2018-01-01 14:36:10.2307||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\satya.prasad\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2018-01-01 14:36:52.1911||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60715/   
+2018-01-01 14:36:52.6249||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method Logging.Controllers.HomeController.Index (Logging) with arguments ((null)) - ModelState is Valid 
+2018-01-01 14:36:56.2468||INFO|Logging.Controllers.HomeController|Input string was not in a correct format. 
+2018-01-01 14:37:55.1072||INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action Logging.Controllers.HomeController.Index (Logging) in 62470.2466ms 
+2018-01-01 14:37:55.3150||ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request Input string was not in a correct format.
+2018-01-01 14:37:55.6342||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 63452.628ms 500 text/html; charset=utf-8 
+2018-01-01 14:37:56.0052||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:60715/favicon.ico   
+2018-01-01 14:37:56.0142||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/favicon.ico'. Physical path: 'E:\Docs\December\AspNetCore\Logging\Logging\wwwroot\favicon.ico' 
+2018-01-01 14:37:56.0679||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 61.8703ms 200 image/x-icon 
